@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently learning **React Native, Python for AI/ML**
 
-- 👨‍💻 All of my projects are available at [https://panduranglad.dev/](https://panduranglad.dev/)
-
 - 💬 Ask me about **.Net Core, Angular, SQL Server**
 
 - 📫 How to reach me **premlad961@gmail.com**
